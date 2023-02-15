@@ -1,0 +1,22 @@
+.amblock{
+    position: center;
+}
+
+.loginbody{
+   border-style: solid;
+   border-color: lightgray;
+   width: 300px;
+   margin: auto;
+   text-align: center;
+}
+
+.continueb{
+    background-color: orange;
+    width: 250px;
+    position: center;
+
+}
+
+.signin{
+    text-align: left;
+}
